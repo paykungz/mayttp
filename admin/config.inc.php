@@ -2,5 +2,5 @@
         $dbserver = 'localhost';
         $dbuser = 'root';
         $dbname = 'mydb';
-        $dbpass = '';
+        $dbpass = '12345678';
 ?>
